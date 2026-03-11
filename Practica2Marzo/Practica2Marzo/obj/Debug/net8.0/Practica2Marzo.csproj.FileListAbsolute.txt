@@ -1,0 +1,14 @@
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\obj\Debug\net8.0\Practica2Marzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\obj\Debug\net8.0\Practica2Marzo.AssemblyInfoInputs.cache
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\obj\Debug\net8.0\Practica2Marzo.AssemblyInfo.cs
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\obj\Debug\net8.0\Practica2Marzo.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\bin\Debug\net8.0\Practica2Marzo.exe
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\bin\Debug\net8.0\Practica2Marzo.deps.json
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\bin\Debug\net8.0\Practica2Marzo.runtimeconfig.json
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\bin\Debug\net8.0\Practica2Marzo.dll
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\bin\Debug\net8.0\Practica2Marzo.pdb
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\obj\Debug\net8.0\Practica2Marzo.dll
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\obj\Debug\net8.0\refint\Practica2Marzo.dll
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\obj\Debug\net8.0\Practica2Marzo.pdb
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\obj\Debug\net8.0\Practica2Marzo.genruntimeconfig.cache
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Segundo Parcial\Practica2Marzo\Practica2Marzo\obj\Debug\net8.0\ref\Practica2Marzo.dll

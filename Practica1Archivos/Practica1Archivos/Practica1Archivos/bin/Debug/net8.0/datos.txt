@@ -1,0 +1,5 @@
+jose _ 20 _ 1.25
+felipe _ 10 _ 1.8
+ernesto _ 6 _ 1.2
+gerardo _ 50 _ 1.9
+ernestina _ 23 _ 1.5

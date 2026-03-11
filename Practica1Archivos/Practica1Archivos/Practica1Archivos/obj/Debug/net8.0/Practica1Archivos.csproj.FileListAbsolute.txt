@@ -1,0 +1,14 @@
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\obj\Debug\net8.0\Practica1Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\obj\Debug\net8.0\Practica1Archivos.AssemblyInfoInputs.cache
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\obj\Debug\net8.0\Practica1Archivos.AssemblyInfo.cs
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\obj\Debug\net8.0\Practica1Archivos.csproj.CoreCompileInputs.cache
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\bin\Debug\net8.0\Practica1Archivos.exe
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\bin\Debug\net8.0\Practica1Archivos.deps.json
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\bin\Debug\net8.0\Practica1Archivos.runtimeconfig.json
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\bin\Debug\net8.0\Practica1Archivos.dll
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\bin\Debug\net8.0\Practica1Archivos.pdb
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\obj\Debug\net8.0\Practica1Archivos.dll
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\obj\Debug\net8.0\refint\Practica1Archivos.dll
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\obj\Debug\net8.0\Practica1Archivos.pdb
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\obj\Debug\net8.0\Practica1Archivos.genruntimeconfig.cache
+C:\Users\rojor\OneDrive\Escritorio\2026-A\MATERIAS\ADMINISTRACION Y ORGANIZACION DE DATOS\2026\Parcial2\Practica1Archivos\Practica1Archivos\obj\Debug\net8.0\ref\Practica1Archivos.dll
